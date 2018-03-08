@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="UTF-8" />
+ <title>The Starbuzz Bean Machine</title>
+ </head>
+ <body>
+  <h1>The Starbuzz Bean Machine</h1>
+  <h2>Fill out the form below and click "oder now" to oder</h2>
+  <form action="http://starbuzzcoffe.com/processorder.php" method="post">
+  </from>
