@@ -1,2 +1,2 @@
 # pasteleria-casera
-aprendea cocinar
+aprende a cocinar
